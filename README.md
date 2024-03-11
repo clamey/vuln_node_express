@@ -1,4 +1,4 @@
-# Vulnerable Node Express
+# Vulnerable Node Express!
 
 This is a vulnerable Node Express service meant to be used as a target for security testing tools.
 
